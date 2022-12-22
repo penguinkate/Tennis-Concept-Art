@@ -1,0 +1,24 @@
+@import	'tennis.css';
+
+*{
+	margin: 1;
+	padding: 0;
+}
+
+body{
+	font-family: 'Titillium Web', sans-serif;
+	background-color: black;
+	color: white;
+}
+
+h1 {
+	font-size: 450%;
+	text-align: center;
+	padding: 0px;
+}
+
+.players {
+	display: flex;
+	position: relative;
+	margin-bottom: 40px;
+}
